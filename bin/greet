@@ -1,1 +1,1 @@
-puts "Hi! I'm #{name}, what's your name?"
+"Hi! I'm #{name}, what's your name?"
